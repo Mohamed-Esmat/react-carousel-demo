@@ -2,7 +2,7 @@
 
 > This project demonstrates how to build a simple carousel in two different ways using React and Vite. It includes two implementations: one without any external libraries and the other using the `react-slick` library. The carousel allows you to cycle through a list of people with navigation buttons for manual control and also supports automatic sliding.
 
-![Carousel Demo](link-to-gif-or-screenshot.gif)
+![Carousel Demo]([link-to-gif-or-screenshot.gif](https://res.cloudinary.com/tawfeer/image/upload/v1690218131/carousel-project_foebbh.png))
 
 ## Table of Contents
 
