@@ -77,6 +77,12 @@ The enchantment continues with additional features:
 - Marvel at the manual sliding capabilities, bestowed by the "prev" and "next" buttons.
 - Embrace the marvel of automation with the auto slide functionality, seamlessly transitioning between slides at regular intervals.
 
+## Demo
+
+Witness the enchanting carousel in action! Experience the live demo by following the link below:
+
+[Live Demo](https://carousel-demo-esmat.netlify.app/)
+
 ## Contact
 
 If you wish to communicate with the creators of this enchanting carousel, we would be delighted to hear from you! Whether you have questions, feedback, or simply want to share your magical experiences with the project, feel free to reach out to us.
